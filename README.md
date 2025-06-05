@@ -42,7 +42,7 @@ This repository contains Jupyter Notebooks and datasets used for exploratory dat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Machine-Learning-Approach-for-Non-Destructive-Coin-Dating.git
    cd your-repo-name
    ```
 
@@ -76,4 +76,3 @@ This project is open-source under the MIT License.
 ## 🙋‍♀️ Contact
 
 If you have any questions or suggestions, feel free to open an issue.
-```
