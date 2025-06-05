@@ -20,13 +20,6 @@ This repository contains Jupyter Notebooks and datasets used for exploratory dat
   - Evaluates model performance on the test set
   - Compares different models
 
-### 📊 Data Files
-
-- `wavex.csv`: Contains the index of wavelengths used in the reflectance measurements.
-- `dados.csv`: Main training set with fields such as mass, reflectance, color, and year.
-- `dados_teste.csv`: Test set corresponding to `dados.csv`, used for evaluation.
-- `dados_xrf.csv`: XRF-based elemental concentrations and error estimates for the training set.
-- `dados_xrf_teste.csv`: XRF-based elemental concentrations and errors for the test set.
 
 ## 🛠️ Technologies Used
 
